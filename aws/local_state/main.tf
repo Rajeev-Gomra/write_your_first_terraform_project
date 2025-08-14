@@ -21,8 +21,11 @@ resource "aws_instance" "app_server" {
     Name = "Terraform_Demo"
   }
 }
-#test commen
+#test comment
 
-fgh
 
-abc
+#b2 commit
+
+
+
+
