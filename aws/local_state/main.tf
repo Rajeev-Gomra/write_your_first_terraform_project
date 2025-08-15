@@ -23,5 +23,13 @@ resource "aws_instance" "app_server" {
 }
 
 
+
 #commit after branch2
+######branch2 comit after original script
+#commit after branch2
+
+
+
+#commit merge after main2
+
 
