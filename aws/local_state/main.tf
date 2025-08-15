@@ -28,3 +28,6 @@ resource "aws_instance" "app_server" {
 #commit after branch2
 
 
+
+#commit merge after main2
+
